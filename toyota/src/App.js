@@ -10,8 +10,8 @@ function App() {
       <section>
       <div className="image-container">
       <div className="date">
-          <p>13</p>
-          <span>JAN</span>
+          <p>5</p>
+          <span>JULY</span>
         </div>
         <div className='share'>
         <i class="fa-share">SHARE</i>
